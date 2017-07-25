@@ -1,3 +1,6 @@
+## Welcome to Swift 4
+I am going to attempt to port the existing core Objective-C application into a Swift-based application. I am going to be using version 4.0 (beta) of the Swift language. Enjoy!
+
 <img src="Cover.png" width="860" />
 
 Python IDE for iOS is a free, open source project that is my attempt at recreating IDLE for mobile devices. Notice how I said IDLE and not PyCharm or some other advanced IDE. This is my attempt at creating a cost-effective simulation of the Python programming language without the use of external servers/compilers.
